@@ -10,3 +10,5 @@
     2. **Final Food List**
         1. Show the food items added on the main screen in JSON format.
         2. The same food items order should be maintained.
+
+![Food App](https://user-images.githubusercontent.com/80621346/170542079-9c0de390-8c9f-4d87-8809-4184261a8e93.png)
